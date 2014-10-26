@@ -598,6 +598,12 @@ p {
     background: #F7F7F7;
     text-align: center;
 }
+.section-wrapper2 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #F7F7F7;
+    text-align: center;
+}
 .section-title {
     text-align: center;
     position: relative;
